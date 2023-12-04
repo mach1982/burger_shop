@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/burger_shop/static/css/main.d717f3a5.css",
-    "main.js": "/burger_shop/static/js/main.5c29ff28.js",
+    "main.js": "/burger_shop/static/js/main.62962608.js",
     "static/media/burger3.png": "/burger_shop/static/media/burger3.11eccfcb1a45834ac9d7.png",
     "static/media/burger2.png": "/burger_shop/static/media/burger2.3a02b94cd44d825ebb94.png",
     "static/media/bg.jpg": "/burger_shop/static/media/bg.8bcdc477de5711ccac1c.jpg",
@@ -18,10 +18,10 @@
     "static/media/fa-v4compatibility.woff2": "/burger_shop/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/burger_shop/index.html",
     "main.d717f3a5.css.map": "/burger_shop/static/css/main.d717f3a5.css.map",
-    "main.5c29ff28.js.map": "/burger_shop/static/js/main.5c29ff28.js.map"
+    "main.62962608.js.map": "/burger_shop/static/js/main.62962608.js.map"
   },
   "entrypoints": [
     "static/css/main.d717f3a5.css",
-    "static/js/main.5c29ff28.js"
+    "static/js/main.62962608.js"
   ]
 }
